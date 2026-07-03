@@ -1,1 +1,3 @@
-# Auralin -- this is my main repo
+# Auralin 
+
+this is my new repository
